@@ -1,0 +1,2 @@
+API_KEY = "sk_test_91aBcXy9876543dEfghLmnopSECRETKEY"
+DB_PASSWORD = "mongo4dm1n@123"
